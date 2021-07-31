@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Biography
+<!-- Biography -->
 ======
 My general research interests lie in improving the performance of machine learning (ML) techniques under real-world scenarios. I am particularly interested in designing robust learning algorithm to handle biased and class imbalanced data, which are two main real-world challenges to hinder the practical use of ML approaches. 
 
